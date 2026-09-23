@@ -1,4 +1,6 @@
 import { rows } from './data.js';
+import { renderSnow } from './snow.js';
+import { flightTime, franceAgency, transitDetails } from './transit.js';
 type Row = typeof rows[number];
 const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
 const money = (v: number) => new Intl.NumberFormat('pl-PL', {maximumFractionDigits: 0}).format(v) + ' zł';
@@ -22,7 +24,7 @@ function selected(r: Row) {
 }
 function sortKey(r: Row) {
   if (value('sort') === 'price') return cost(r) ?? Infinity;
-  if (value('sort') === 'time') return parseFloat(String(filters.mode === 'flight' ? r[5] : ses(r) ? 18 + 17/60 : r[6]));
+  if (value('sort') === 'time') return parseFloat(String(filters.mode === 'flight' ? flightTime(r) : ses(r) ? 18 + 17/60 : r[6]));
   return Number(r[1].split('.')[1])*100 + parseInt(r[1]);
 }
 function pricingNote(r: Row) {
@@ -36,18 +38,18 @@ function details(r: Row) {
     note = `${r[2] === 'Samodzielnie' ? 'Nocleg dla 4 osób + 6-dniowy skipass, przy kursie 4,30 zł/€' : 'Pakiet dojazdu własnego z arkusza'}: ${money(b)} na osobę. Paliwo: ${money(fuelPerPerson)} na osobę za przejazd w obie strony. Bez autostrad, winiet, parkingu i ewentualnego noclegu po drodze. Wyżywienie tylko jeśli zawarte w pakiecie biura.`;
   }
   const safeUrl = r[8].startsWith('https://') ? escape(r[8]) : '#';
-  return `<details><summary>Szczegóły</summary><p>${escape(note)}</p><a href="${safeUrl}" target="_blank" rel="noopener noreferrer">Otwórz źródło wyceny ↗</a></details>`;
+  return `<details><summary>Szczegóły</summary><p>${escape(note)}</p>${filters.mode === 'flight' ? transitDetails(r) : ''}<p><a href="${safeUrl}" target="_blank" rel="noopener noreferrer">Otwórz źródło wyceny ↗</a></p></details>`;
 }
 function card(r: Row) {
   const price = cost(r), self = r[2] === 'Samodzielnie';
-  return `<article class="offer"><div><span class="tag ${self ? 'self' : ''}">${self ? 'Samodzielnie' : 'Z biurem · '+escape(r[2])}</span><h3>${escape(r[0])}</h3><p class="stay">${escape(r[9])}</p></div><div><span class="label">TERMIN · 2027</span><span class="date">${escape(r[1].replace('.2027',''))}</span></div><div><span class="label">${filters.mode === 'flight' ? 'WYJAZD Z LOTEM' : 'DOJAZD WŁASNY'}</span><span class="price">${price === null ? '—' : money(price)}</span><span class="sub">${pricingNote(r)}</span></div><div><span class="label">CZAS PODRÓŻY (${filters.mode === 'flight' ? 'LOT' : 'AUTO'})</span><span class="time">${escape(filters.mode === 'flight' ? r[5] : ses(r) ? '18 h 17 min' : r[6])}${filters.mode === 'car' && ses(r) ? '' : ' h'}</span><span class="sub">w jedną stronę</span></div>${details(r)}</article>`;
+  return `<article class="offer"><div><span class="tag ${self ? 'self' : ''}">${self ? 'Samodzielnie' : 'Z biurem · '+escape(r[2])}</span><h3>${escape(r[0])}</h3><p class="stay">${escape(r[9])}</p></div><div><span class="label">TERMIN · 2027</span><span class="date">${escape(r[1].replace('.2027',''))}</span></div><div><span class="label">${filters.mode === 'flight' ? 'WYJAZD Z LOTEM' : 'DOJAZD WŁASNY'}</span><span class="price">${price === null ? '—' : money(price)}</span><span class="sub">${pricingNote(r)}</span></div><div><span class="label">CZAS PODRÓŻY (${filters.mode === 'flight' ? 'LOT' : 'AUTO'})</span><span class="time">${escape(filters.mode === 'flight' ? flightTime(r) : ses(r) ? '18 h 17 min' : r[6])}${filters.mode === 'car' && ses(r) ? '' : ' h'}</span><span class="sub">${filters.mode === 'flight' && franceAgency(r) ? (r[2] === 'SnowShow' ? 'z Gdańska · szacunek, możliwy nocleg w WAW' : 'model z Gdańska · lot do ustalenia') : 'w jedną stronę'}</span></div>${details(r)}</article>`;
 }
 function render() {
   const result = rows.filter(selected).sort((a,b) => sortKey(a)-sortKey(b));
   $('count').textContent = `Opcje wyjazdu (${result.length})`;
   $('results').innerHTML = result.length ? result.map(card).join('') : '<p class="empty">Brak opcji dla tych filtrów. Wybierz inny termin lub ośrodek.</p>';
   $('fuel').hidden = filters.mode !== 'car';
-  $('notice').textContent = filters.mode === 'flight' ? 'Ceny od, zgodnie z Twoim arkuszem. Szczegółowy zakres bagażu i dojazdu różni się między ofertami.' : 'Paliwo doliczamy tylko do Sestriere / Vialattea. Pozostałe kierunki pokazują pakiet bez paliwa — nie są pełnym kosztem podróży autem. Opłaty drogowe i parking nie są wycenione.';
+  $('notice').textContent = filters.mode === 'flight' ? 'Ceny od, zgodnie z arkuszem. Francja z biurem: czas od wyjazdu z Gdańska, ale dojazd do Warszawy i ewentualny nocleg nie są potwierdzone w cenie. Czasy są szacunkowe — rozwiń szczegóły.' : 'Paliwo doliczamy tylko do Sestriere / Vialattea. Pozostałe kierunki pokazują pakiet bez paliwa — nie są pełnym kosztem podróży autem. Opłaty drogowe i parking nie są wycenione.';
 }
 document.querySelectorAll<HTMLButtonElement>('[data-filter]').forEach(button => button.addEventListener('click', () => {
   const key = button.dataset.filter!;
@@ -58,3 +60,4 @@ document.querySelectorAll<HTMLButtonElement>('[data-filter]').forEach(button => 
   render();
 }));
 render();
+renderSnow();
