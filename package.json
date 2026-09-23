@@ -1,0 +1,1 @@
+{"name":"narty-2027","private":true,"type":"module","scripts":{"check-types":"tsc --noEmit","build":"tsc"},"devDependencies":{"typescript":"5.9.3"}}
