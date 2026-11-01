@@ -2,7 +2,7 @@
 
 Zaktualizowano wszystkie 17 wariantów porównania. Kwoty PLN poniżej są na osobę. To odczyty ofert i budżety, nie rezerwacje ani gwarancja dostępności. Pozostawiono zapisane terminy wyjazdów. Zmiany obiektów są jawne, ponieważ Casa Rossa w styczniu oraz Pelvoux/Jettay we wszystkich badanych tygodniach nie mają dostępności w sprawdzonych kanałach.
 
-Samodzielne noclegi: 4 dorosłych, cały lokal, 7 nocy, EUR z wyświetlanymi podatkami i opłatami. Przeliczenie przy **modelowym kursie 4,30 zł/EUR**, nie bieżącym kursie wymiany. Loty eSky: 1 dorosły, tam i z powrotem, cena biletu plus pokazana opłata serwisowa; cztery miejsca w tej cenie i koszyk linii niepotwierdzone.
+Samodzielne noclegi: 4 dorosłych, cały lokal, 7 nocy, EUR z wyświetlanymi podatkami i opłatami. Przeliczenie przy **modelowym kursie 4,30 zł/EUR**, nie bieżącym kursie wymiany. Loty do Turynu: odczyty eSky dla 1 dorosłego, tam i z powrotem, cena biletu plus pokazana opłata serwisowa. Loty Warszawa–Lyon: najnowsze wyceny Wizz Air przekazane przez użytkownika 01.11.2026, na osobę w obie strony, bez doliczania opłaty eSky i bez niezależnej weryfikacji u przewoźnika. Zakres bagażu, cztery miejsca w tej cenie i koszyk linii pozostają niepotwierdzone.
 
 ## Porównanie
 
@@ -13,13 +13,13 @@ Samodzielne noclegi: 4 dorosłych, cały lokal, 7 nocy, EUR z wyświetlanymi pod
 | Les Menuires – 3 Doliny / SnowShow | 22–31.01.2027 | 5040 zł | 3240 zł | Winterbang · RELAX 4* |
 | Orelle – Val Thorens (3 Doliny) / SnowShow | 22–31.01.2027 | 4340 zł | 2540 zł | Into The Snow · BASIC |
 | Verbier – 4 Vallées / Taksidi | 22–31.01.2027 | brak aktualnej wyceny | 3140 zł | Swiss Finest #2 · apartament 4-os. |
-| Les Menuires · 3 Doliny / Samodzielnie | 23–30.01.2027 | 5365 zł — szacunek | 2732 zł | Appartement confortable Les Belleville · 40 m² |
+| Les Menuires · 3 Doliny / Samodzielnie | 23–30.01.2027 | 5261 zł — szacunek | 2732 zł | Appartement confortable Les Belleville · 40 m² |
 | Sestriere · Vialattea / Samodzielnie | 23–30.01.2027 | 3816 zł — szacunek | 2634 zł | Residence Nube d’Argento · Borgata · 27 m² |
-| Les Menuires · 3 Doliny / Samodzielnie | 06–13.02.2027 | 5632 zł — szacunek | 3143 zł | Studio cabine FR-1-344-863 · 24 m² |
+| Les Menuires · 3 Doliny / Samodzielnie | 06–13.02.2027 | 5442 zł — szacunek | 3143 zł | Studio cabine FR-1-344-863 · 24 m² |
 | Sestriere · Vialattea / Samodzielnie | 06–13.02.2027 | 5083 zł — szacunek | 3048 zł | Residence Nube d’Argento · Borgata · 27 m² |
-| Les Menuires · 3 Doliny / Samodzielnie | 20–27.02.2027 | 5092 zł — szacunek | 3181 zł | Apartment Médian 005 · Interhome · 24 m² |
+| Les Menuires · 3 Doliny / Samodzielnie | 20–27.02.2027 | 5034 zł — szacunek | 3181 zł | Apartment Médian 005 · Interhome · 24 m² |
 | Verbier – 4 Vallées / Taksidi | 05–14.03.2027 | 4430 zł | 3040 zł | Swiss Finest #5 · apartament 4-os. |
-| Les Menuires · 3 Doliny / Samodzielnie | 06–13.03.2027 | 5336 zł — szacunek | 2852 zł | Balcons D’Olympie · Interhome · 25 m² |
+| Les Menuires · 3 Doliny / Samodzielnie | 06–13.03.2027 | 5176 zł — szacunek | 2852 zł | Balcons D’Olympie · Interhome · 25 m² |
 | Sestriere · Vialattea / Samodzielnie | 06–13.03.2027 | 4846 zł — szacunek | 2769 zł | Residence Nube d’Argento · Borgata · 27 m² |
 | Vialattea / Sestriere / Wygoda.SKI | 06–13.03.2027 | 6582 zł | brak aktualnej wyceny | Villaggio Olimpico 4* (marzec) |
 | Les Menuires – 3 Doliny / Taksidi | 12–21.03.2027 | brak aktualnej wyceny | 3090 zł | 3 Valees Gateway #4 · apartament 4-os. |
@@ -31,7 +31,7 @@ Na stronie tryb samochodowy dodaje do Sestriere jeszcze **624 zł/os.** paliwa w
 ## Co jest potwierdzone, a co szacunkowe
 
 - Loty Wizz do Turynu z Gdańska: 344 / 352 / 1205 / 1246 zł (kolejno 16.01, 23.01, 06.02, 06.03; daty powrotu po 7 dniach), tylko mały bagaż pod fotel.
-- Loty Wizz Warszawa–Lyon: 1212 / 1067 / 489 / 1062 zł (23.01, 06.02, 20.02, 06.03), tylko mały bagaż pod fotel.
+- Loty Wizz Warszawa–Lyon: **1108 / 877 / 431 / 902 zł/os. w obie strony** (23.01, 06.02, 20.02, 06.03). Najnowsze wyceny przekazane przez użytkownika 01.11.2026; taryfa podstawowa, bez doliczania opłaty eSky. Zakres bagażu i dostępność 4 miejsc niepotwierdzone niezależnie. [Wizz Air](https://wizzair.com/pl-pl); [pochodzenie i zastąpione odczyty eSky](zrodla/2026-11-01-loty.md#latest-user-provided-wizz-quotes--1-november-2026).
 - Samodzielne sumy ze sprzętem pozostają **szacunkiem**. Rezerwa na własny snowboard i ½ walizki 20 kg z września: Turyn 654,155 zł na pierwszy styczeń oraz 640,48 zł na inne terminy; Lyon 604,01 zł. Nie są to ponownie potwierdzone opłaty przewoźnika.
 - Transfery samodzielne: Sestriere rezerwa 190 zł/os., dodatkowy dojazd do Borgata niewyceniony; Les Menuires 101,50 GBP × modelowy kurs 5,10 zł/GBP (Ben’s Bus i bagaż) + 300 zł rezerwy na kolej i dojazd do WAW. Bilety, godziny, opłaty i skomunikowanie wymagają potwierdzenia.
 - Vialattea: 6 dni 261 EUR w tygodniu 17–22.01, następne analizowane tygodnie 287 EUR wg [cennika online 2026/27](https://www.vialattea.it/wp-content/uploads/2026/07/Prezziario-ITA_3.pdf). Poprzednie 305 EUR dotyczyło niewłaściwej kolumny najwyższego sezonu.
@@ -92,13 +92,13 @@ Odczyt 01.11.2026. Cena na osobę w apartamencie 4-osobowym przy pełnym obsadze
 
 ### Les Menuires · 3 Doliny · 23–30.01.2027 · Samodzielnie
 
-Odczyt 01.11.2026. Nocleg: 857 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Bezzwrotnie; alternatywa 1089 EUR z anulowaniem przed 24.12.2026. Podwójne łóżko, pojedyncze i sofa. Własna pościel/ręczniki; sprzątanie samodzielnie lub 110 EUR. Zwrotna kaucja 500 EUR w gotówce. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air bezpośrednio: 1078 zł bilety + 134 zł opłata serwisowa = 1212 zł/os. w obie strony, odczyt eSky dla 1 dorosłego 01.11.2026. Tylko mały bagaż pod fotel; sprzęt sportowy i walizka 20 kg poza ceną. Nie potwierdzono 4 miejsc w tej cenie ani koszyka przewoźnika. Budżet lotniczy: pobyt 2731.57 zł + loty 1212 zł + rezerwa na bagaż 604,01 zł (stawki Wizz z września: snowboard i ½ walizki 20 kg) + dojazdy szacunkowo 817.65 zł (Ben’s Bus z bagażem 101,50 GBP przy modelowym kursie 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW). Aktualne bilety i godziny transferów niepotwierdzone.
+Odczyt 01.11.2026. Nocleg: 857 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Bezzwrotnie; alternatywa 1089 EUR z anulowaniem przed 24.12.2026. Podwójne łóżko, pojedyncze i sofa. Własna pościel/ręczniki; sprzątanie samodzielnie lub 110 EUR. Zwrotna kaucja 500 EUR w gotówce. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air: 1108 zł/os. w obie strony — najnowsza wycena przekazana przez użytkownika 01.11.2026, bez niezależnej weryfikacji u przewoźnika. Cena podstawowa bez doliczania opłaty eSky; snowboard i walizka 20 kg poza ceną. Zakres bagażu, 4 miejsca w tej cenie i koszyk przewoźnika pozostają niepotwierdzone. Budżet lotniczy: pobyt 2731.57 zł + loty 1108 zł + rezerwa na bagaż 604,01 zł (stawki Wizz z września: snowboard i ½ walizki 20 kg) + dojazdy szacunkowo 817.65 zł (Ben’s Bus z bagażem 101,50 GBP przy modelowym kursie 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW). Aktualne bilety i godziny transferów niepotwierdzone.
 
 - [Oferta noclegu lub pakietu](https://www.booking.com/hotel/fr/appartement-d-une-chambre-a-les-belleville-a-100-m-des-pistes-avec-terrasse-amen.en-gb.html?checkin=2027-01-23&checkout=2027-01-30&group_adults=4&group_children=0&no_rooms=1&selected_currency=EUR)
 - [Skipass 3 Vallées 2026/27](https://lesmenuires.com/en/ski-passes)
 - [Kalendarz Pelvoux](https://lesmenuires-location.com/tarifs-disponibilites-pelvoux/)
 - [Kalendarz Jettay](https://lesmenuires-location.com/tarifs-disponibilites-jettay/)
-- [Lot WAW–LYS · eSky](https://www.esky.pl/flights/search/ap/WAW/ap/LYS?pa=1&py=0&pc=0&pi=0&sc=economy&departureDate=2027-01-23&returnDate=2027-01-30&sort=price&requestSource=LandingPageDeals)
+- [Wizz Air · wycena użytkownika](https://wizzair.com/pl-pl)
 
 ### Sestriere · Vialattea · 23–30.01.2027 · Samodzielnie
 
@@ -110,13 +110,13 @@ Odczyt 01.11.2026. Nocleg: 1302 EUR za 4 dorosłych / 7 nocy, podatki i opłaty 
 
 ### Les Menuires · 3 Doliny · 06–13.02.2027 · Samodzielnie
 
-Odczyt 01.11.2026. Nocleg: 1240 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Anulowanie bez opłat przed 08.12.2026. Opis gospodarza: sofa dla 2 osób i łóżka piętrowe; zestawienie łóżek jest niespójne. Sprzątanie opcjonalnie 95 EUR; własna pościel/ręczniki lub dopłata do wyjaśnienia (źródło miesza cenę pakietu i na osobę). Zwrotna kaucja 400 EUR na karcie. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air: 948 zł bilety + 119 zł opłata serwisowa = 1067 zł/os. w obie strony, odczyt wyników eSky dla 1 dorosłego 01.11.2026. Tylko mały bagaż pod fotel; sprzęt sportowy i walizka 20 kg wyłączone. Nie potwierdzono 4 miejsc w tej cenie ani koszyka przewoźnika. Budżet lotniczy na osobę: pobyt 3143.30 zł + loty 1067 zł + bagaż ≈604.01 zł + dojazdy ≈817.65 zł. Bagaż to rezerwa z września 2026 (własny snowboard i ½ walizki 20 kg), nie nowa taryfa. Dojazdy: Ben’s Bus z bagażem szacunkowo 101,50 GBP × modelowy kurs 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW. Aktualne bilety i godziny transferów niepotwierdzone.
+Odczyt 01.11.2026. Nocleg: 1240 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Anulowanie bez opłat przed 08.12.2026. Opis gospodarza: sofa dla 2 osób i łóżka piętrowe; zestawienie łóżek jest niespójne. Sprzątanie opcjonalnie 95 EUR; własna pościel/ręczniki lub dopłata do wyjaśnienia (źródło miesza cenę pakietu i na osobę). Zwrotna kaucja 400 EUR na karcie. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air: 877 zł/os. w obie strony — najnowsza wycena przekazana przez użytkownika 01.11.2026, bez niezależnej weryfikacji u przewoźnika. Cena podstawowa bez doliczania opłaty eSky; snowboard i walizka 20 kg poza ceną. Zakres bagażu, 4 miejsca w tej cenie i koszyk przewoźnika pozostają niepotwierdzone. Budżet lotniczy na osobę: pobyt 3143.30 zł + loty 877 zł + bagaż ≈604.01 zł + dojazdy ≈817.65 zł. Bagaż to rezerwa z września 2026 (własny snowboard i ½ walizki 20 kg), nie nowa taryfa. Dojazdy: Ben’s Bus z bagażem szacunkowo 101,50 GBP × modelowy kurs 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW. Aktualne bilety i godziny transferów niepotwierdzone.
 
 - [Oferta noclegu lub pakietu](https://www.booking.com/hotel/fr/studio-les-menuires-2-pieces-4-personnes-fr-1-344-863.en-gb.html?checkin=2027-02-06&checkout=2027-02-13&group_adults=4&group_children=0&no_rooms=1&selected_currency=EUR)
 - [Skipass 3 Vallées 2026/27](https://lesmenuires.com/en/ski-passes)
 - [Kalendarz Pelvoux](https://lesmenuires-location.com/tarifs-disponibilites-pelvoux/)
 - [Kalendarz Jettay](https://lesmenuires-location.com/tarifs-disponibilites-jettay/)
-- [Lot WAW–LYS · eSky](https://www.esky.pl/flights/search/ap/WAW/ap/LYS?pa=1&py=0&pc=0&pi=0&sc=economy&departureDate=2027-02-06&returnDate=2027-02-13&sort=price&requestSource=LandingPageDeals)
+- [Wizz Air · wycena użytkownika](https://wizzair.com/pl-pl)
 
 ### Sestriere · Vialattea · 06–13.02.2027 · Samodzielnie
 
@@ -128,13 +128,13 @@ Odczyt 01.11.2026. Nocleg: 1687 EUR za 4 dorosłych / 7 nocy, podatki i opłaty 
 
 ### Les Menuires · 3 Doliny · 20–27.02.2027 · Samodzielnie
 
-Odczyt 01.11.2026. Nocleg: 1275 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Anulowanie bez opłat przed 22.12.2026. Łóżko piętrowe i sofa. Pościel/ręczniki opcjonalnie 88 EUR za 4 osoby lub własne; zwrotna kaucja 300 EUR na karcie. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air: 408 zł bilety + 81 zł opłata serwisowa = 489 zł/os. w obie strony, odczyt wyników eSky dla 1 dorosłego 01.11.2026. Tylko mały bagaż pod fotel; sprzęt sportowy i walizka 20 kg wyłączone. Nie potwierdzono 4 miejsc w tej cenie ani koszyka przewoźnika. Budżet lotniczy na osobę: pobyt 3180.92 zł + loty 489 zł + bagaż ≈604.01 zł + dojazdy ≈817.65 zł. Bagaż to rezerwa z września 2026 (własny snowboard i ½ walizki 20 kg), nie nowa taryfa. Dojazdy: Ben’s Bus z bagażem szacunkowo 101,50 GBP × modelowy kurs 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW. Aktualne bilety i godziny transferów niepotwierdzone.
+Odczyt 01.11.2026. Nocleg: 1275 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Anulowanie bez opłat przed 22.12.2026. Łóżko piętrowe i sofa. Pościel/ręczniki opcjonalnie 88 EUR za 4 osoby lub własne; zwrotna kaucja 300 EUR na karcie. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air: 431 zł/os. w obie strony — najnowsza wycena przekazana przez użytkownika 01.11.2026, bez niezależnej weryfikacji u przewoźnika. Cena podstawowa bez doliczania opłaty eSky; snowboard i walizka 20 kg poza ceną. Zakres bagażu, 4 miejsca w tej cenie i koszyk przewoźnika pozostają niepotwierdzone. Budżet lotniczy na osobę: pobyt 3180.92 zł + loty 431 zł + bagaż ≈604.01 zł + dojazdy ≈817.65 zł. Bagaż to rezerwa z września 2026 (własny snowboard i ½ walizki 20 kg), nie nowa taryfa. Dojazdy: Ben’s Bus z bagażem szacunkowo 101,50 GBP × modelowy kurs 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW. Aktualne bilety i godziny transferów niepotwierdzone.
 
 - [Oferta noclegu lub pakietu](https://www.booking.com/hotel/fr/appartement-le-median-5.en-gb.html?checkin=2027-02-20&checkout=2027-02-27&group_adults=4&group_children=0&no_rooms=1&selected_currency=EUR)
 - [Skipass 3 Vallées 2026/27](https://lesmenuires.com/en/ski-passes)
 - [Kalendarz Pelvoux](https://lesmenuires-location.com/tarifs-disponibilites-pelvoux/)
 - [Kalendarz Jettay](https://lesmenuires-location.com/tarifs-disponibilites-jettay/)
-- [Lot WAW–LYS · eSky](https://www.esky.pl/flights/search/ap/WAW/ap/LYS?pa=1&py=0&pc=0&pi=0&sc=economy&departureDate=2027-02-20&returnDate=2027-02-27&sort=price&requestSource=LandingPageDeals)
+- [Wizz Air · wycena użytkownika](https://wizzair.com/pl-pl)
 
 ### Verbier – 4 Vallées · 05–14.03.2027 · Taksidi
 
@@ -144,13 +144,13 @@ Odczyt 01.11.2026. Cena na osobę w apartamencie 4-osobowym przy pełnym obsadze
 
 ### Les Menuires · 3 Doliny · 06–13.03.2027 · Samodzielnie
 
-Odczyt 01.11.2026. Nocleg: 969 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Anulowanie bez opłat przed 05.01.2027. Dwa łóżka pojedyncze i sofa. Pościel/ręczniki opcjonalnie 88 EUR za 4 osoby lub własne; zwrotna kaucja 300 EUR na karcie. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air bezpośrednio: 918 zł bilety + 144 zł opłata serwisowa = 1062 zł/os. w obie strony, odczyt eSky dla 1 dorosłego 01.11.2026. Tylko mały bagaż pod fotel; sprzęt sportowy i walizka 20 kg poza ceną. Nie potwierdzono 4 miejsc w tej cenie ani koszyka przewoźnika. Budżet lotniczy: pobyt 2851.97 zł + loty 1062 zł + rezerwa na bagaż 604,01 zł (stawki Wizz z września: snowboard i ½ walizki 20 kg) + dojazdy szacunkowo 817.65 zł (Ben’s Bus z bagażem 101,50 GBP przy modelowym kursie 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW). Aktualne bilety i godziny transferów niepotwierdzone.
+Odczyt 01.11.2026. Nocleg: 969 EUR za 4 dorosłych / 7 nocy, wyświetlane podatki i opłaty w cenie. Anulowanie bez opłat przed 05.01.2027. Dwa łóżka pojedyncze i sofa. Pościel/ręczniki opcjonalnie 88 EUR za 4 osoby lub własne; zwrotna kaucja 300 EUR na karcie. Bez wyżywienia i skipassa. Pełny skipass 3 Vallées 6 dni: 421 EUR/os. Modelowy kurs 4,30 zł/EUR. Pelvoux i Jettay są zajęte według kalendarza właściciela; pokazujemy zamiennik. Samodzielny dojazd autem niewyceniony. Ubezpieczenie i dodatki noclegowe poza sumą. Loty WAW–LYS–WAW, Wizz Air: 902 zł/os. w obie strony — najnowsza wycena przekazana przez użytkownika 01.11.2026, bez niezależnej weryfikacji u przewoźnika. Cena podstawowa bez doliczania opłaty eSky; snowboard i walizka 20 kg poza ceną. Zakres bagażu, 4 miejsca w tej cenie i koszyk przewoźnika pozostają niepotwierdzone. Budżet lotniczy: pobyt 2851.97 zł + loty 902 zł + rezerwa na bagaż 604,01 zł (stawki Wizz z września: snowboard i ½ walizki 20 kg) + dojazdy szacunkowo 817.65 zł (Ben’s Bus z bagażem 101,50 GBP przy modelowym kursie 5,10 zł/GBP oraz 300 zł rezerwy na kolej i dojazd do WAW). Aktualne bilety i godziny transferów niepotwierdzone.
 
 - [Oferta noclegu lub pakietu](https://www.booking.com/hotel/fr/apartment-balcons-d-olympie-by-interhome.en-gb.html?checkin=2027-03-06&checkout=2027-03-13&group_adults=4&group_children=0&no_rooms=1&selected_currency=EUR)
 - [Skipass 3 Vallées 2026/27](https://lesmenuires.com/en/ski-passes)
 - [Kalendarz Pelvoux](https://lesmenuires-location.com/tarifs-disponibilites-pelvoux/)
 - [Kalendarz Jettay](https://lesmenuires-location.com/tarifs-disponibilites-jettay/)
-- [Lot WAW–LYS · eSky](https://www.esky.pl/flights/search/ap/WAW/ap/LYS?pa=1&py=0&pc=0&pi=0&sc=economy&departureDate=2027-03-06&returnDate=2027-03-13&sort=price&requestSource=LandingPageDeals)
+- [Wizz Air · wycena użytkownika](https://wizzair.com/pl-pl)
 
 ### Sestriere · Vialattea · 06–13.03.2027 · Samodzielnie
 
