@@ -1,6 +1,6 @@
 # Ceny — odczyt 1 listopada 2026
 
-Zaktualizowano wszystkie 17 wariantów porównania. Kwoty PLN poniżej są na osobę. To odczyty ofert i budżety, nie rezerwacje ani gwarancja dostępności. Pozostawiono zapisane terminy wyjazdów. Zmiany obiektów są jawne, ponieważ Casa Rossa w styczniu oraz Pelvoux/Jettay we wszystkich badanych tygodniach nie mają dostępności w sprawdzonych kanałach.
+Zaktualizowano wszystkie 16 wariantów porównania. Kwoty PLN poniżej są na osobę. To odczyty ofert i budżety, nie rezerwacje ani gwarancja dostępności. Pozostawiono zapisane terminy wyjazdów. Zmiany obiektów są jawne, ponieważ Casa Rossa w styczniu oraz Pelvoux/Jettay we wszystkich badanych tygodniach nie mają dostępności w sprawdzonych kanałach.
 
 Samodzielne noclegi: 4 dorosłych, cały lokal, 7 nocy, EUR z wyświetlanymi podatkami i opłatami. Przeliczenie przy **modelowym kursie 4,30 zł/EUR**, nie bieżącym kursie wymiany. Loty do Turynu: odczyty eSky dla 1 dorosłego, tam i z powrotem, cena biletu plus pokazana opłata serwisowa. Loty Warszawa–Lyon: najnowsze wyceny Wizz Air przekazane przez użytkownika 01.11.2026, na osobę w obie strony, bez doliczania opłaty eSky i bez niezależnej weryfikacji u przewoźnika. Zakres bagażu, cztery miejsca w tej cenie i koszyk linii pozostają niepotwierdzone.
 
@@ -11,7 +11,6 @@ Samodzielne noclegi: 4 dorosłych, cały lokal, 7 nocy, EUR z wyświetlanymi pod
 | Sestriere · Vialattea / Samodzielnie | 16–23.01.2027 | 3707 zł — szacunek | 2522 zł | Residence Nube d’Argento · Borgata · 27 m² |
 | Vialattea / Sestriere / Wygoda.SKI | 16–23.01.2027 | 6267 zł | brak aktualnej wyceny | Villaggio Olimpico 4* (styczeń) |
 | Les Menuires – 3 Doliny / SnowShow | 22–31.01.2027 | 5040 zł | 3240 zł | Winterbang · RELAX 4* |
-| Orelle – Val Thorens (3 Doliny) / SnowShow | 22–31.01.2027 | 4340 zł | 2540 zł | Into The Snow · BASIC |
 | Verbier – 4 Vallées / Taksidi | 22–31.01.2027 | brak aktualnej wyceny | 3140 zł | Swiss Finest #2 · apartament 4-os. |
 | Les Menuires · 3 Doliny / Samodzielnie | 23–30.01.2027 | 5261 zł — szacunek | 2732 zł | Appartement confortable Les Belleville · 40 m² |
 | Sestriere · Vialattea / Samodzielnie | 23–30.01.2027 | 3816 zł — szacunek | 2634 zł | Residence Nube d’Argento · Borgata · 27 m² |
@@ -77,12 +76,6 @@ Odczyt 01.11.2026. Cena na osobę przy 2 dorosłych w pokoju classic (nie aparta
 Odczyt 01.11.2026. Cena kategorii PLUS/OLDSCHOOL bez zniżki studenckiej; promocja do 19.11.2026. Pakiet autokarowy 3440 zł/os.; dojazd własny −200 zł/os.; lot Warszawa–Lyon z bagażem i transferem +1600 zł/os. ponad cenę autokarową, bez zniżki za dojazd własny. 7 nocy i podstawowy skipass 6 dni. Poza sumą obowiązkowe ubezpieczenie 95–145 zł/os. oraz pościel/sprzątanie/taksa łącznie 32 EUR/os.; zwrotna kaucja 50 EUR. Wyżywienie i Gdańsk–Warszawa poza sumą. Cena bazowa nie gwarantuje osobnego apartamentu dla 4 osób; typ i obsadzenie do sprawdzenia w rezerwacji. Pełne 3 Doliny dodatkowo 320 zł/os.; podstawowy karnet Les Menuires–Saint Martin.
 
 - [Oferta noclegu lub pakietu](https://snowshow.pl/wyjazdy/francja/les-menuires/22-01-2027)
-
-### Orelle – Val Thorens (3 Doliny) · 22–31.01.2027 · SnowShow
-
-Odczyt 01.11.2026. Cena kategorii PLUS/OLDSCHOOL bez zniżki studenckiej; promocja do 19.11.2026. Pakiet autokarowy 2740 zł/os.; dojazd własny −200 zł/os.; lot Warszawa–Lyon z bagażem i transferem +1600 zł/os. ponad cenę autokarową, bez zniżki za dojazd własny. 7 nocy i podstawowy skipass 6 dni. Poza sumą obowiązkowe ubezpieczenie 95–145 zł/os. oraz pościel/sprzątanie/taksa łącznie 23 EUR/os.; zwrotna kaucja 50 EUR. Wyżywienie i Gdańsk–Warszawa poza sumą. Cena bazowa nie gwarantuje osobnego apartamentu dla 4 osób; typ i obsadzenie do sprawdzenia w rezerwacji. Podstawowy karnet Val Thorens–Orelle; pełne 3 Doliny i jego dopłatę sprawdź w ofercie.
-
-- [Oferta noclegu lub pakietu](https://snowshow.pl/wyjazdy/francja/orelle/22-01-2027)
 
 ### Verbier – 4 Vallées · 22–31.01.2027 · Taksidi
 
